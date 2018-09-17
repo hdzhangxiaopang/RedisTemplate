@@ -9,7 +9,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by zhangguilin on 1/24/2018.
+ *
+ * @author zhangguilin
+ * @date 1/24/2018
  */
 public class RedisTemplateSet {
 

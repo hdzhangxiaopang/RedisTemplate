@@ -12,7 +12,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by zhangguilin on 1/24/2018.
+ *
+ * @author zhangguilin
+ * @date 1/24/2018
  */
 public class RedisTemplateHash {
     public static void main(String[] args) {

@@ -8,7 +8,9 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by zhangguilin on 1/26/2018.
+ *
+ * @author zhangguilin
+ * @date 1/26/2018
  */
 public class RedisTemplateList {
     public static void main(String[] args) {
